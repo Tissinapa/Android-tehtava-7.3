@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "tehtavat_7.3eteenpain"
